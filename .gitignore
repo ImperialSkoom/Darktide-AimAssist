@@ -1,0 +1,21 @@
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Editor settings
+.vscode/
+.vs/
+.idea/
+*.code-workspace
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*.orig
+*.log
+
+# Local archive exports
+*.zip
+*.7z
+*.rar
